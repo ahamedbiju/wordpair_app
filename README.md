@@ -1,6 +1,6 @@
-# mixy_app
+# wordpair_app
 
-A new Flutter project.
+A simple Flutter application that generates and displays random word pairs.
 
 ## Getting Started
 
